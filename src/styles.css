@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  border: 1px solid black;
+}
+
+#hidden {
+  visibility: none;
+  height: 0px;
+}
